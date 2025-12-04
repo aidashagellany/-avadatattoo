@@ -1,11 +1,12 @@
- 3TATTOO
+ #TATTOO
 
 <a href ="https://aidashagellany.github.io/-avadatattoo/" >online demo</a>
 <ul>
 
 <li>  Developed by aida shagellany.</li>
 
-Technologes : Html5 Css3.
+<li>Technologes : Html5 Css3.</li>
+<li></li>
 
 
 </ul>
